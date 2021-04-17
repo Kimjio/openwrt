@@ -91,7 +91,7 @@ define Device/tplink_archer-c6-v2
   SOC := qca9563
   IMAGE_SIZE := 7808k
   DEVICE_MODEL := Archer C6
-  DEVICE_VARIANT := v2 (EU/RU/JP)
+  DEVICE_VARIANT := v2 (EU/RU/JP/KR)
   TPLINK_BOARD_ID := ARCHER-C6-V2
   DEVICE_PACKAGES := kmod-ath10k-ct ath10k-firmware-qca9888-ct
 endef

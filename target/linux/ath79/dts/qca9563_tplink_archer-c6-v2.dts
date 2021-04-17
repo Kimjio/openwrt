@@ -4,7 +4,7 @@
 
 / {
 	compatible = "tplink,archer-c6-v2", "qca,qca9563";
-	model = "TP-Link Archer C6 v2 (EU/RU/JP)";
+	model = "TP-Link Archer C6 v2 (EU/RU/JP/KR)";
 
 	aliases {
 		led-boot = &led_power;
